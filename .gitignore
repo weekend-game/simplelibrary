@@ -1,6 +1,5 @@
 *.class
 *.log
 /bin/
-/doc/
 dos.bat
 notes.txt
