@@ -1,0 +1,5 @@
+*.class
+*.log
+/bin/
+dos.bat
+notes.txt
